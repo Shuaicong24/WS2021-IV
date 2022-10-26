@@ -5,8 +5,7 @@ LMU-WS20/21-IV-Group 28-COVID Visualization
 This is an information visualization project on the status of COVID-19 in the various German states.  
 It is a group project of Ludwig-Maximilians-Universität München(LMU) information visualization course. 
 ### Project Version
-There are two main versions of the project in the development process, which are built through the [express](https://expressjs.com/) on backend and [react](https://reactjs.org/) on frontend.    
-**The react version is an optimized and upgraded version of express**, and it has been deployed to the remote server of LMU. It can be accessed through this URL: http://www.cip.ifi.lmu.de/~zhuw/
+There are two main versions of the project in the development process, which are built through the [express](https://expressjs.com/) on backend and [react](https://reactjs.org/) on frontend.
 
 ### Team members
 - Wenfeng Zhu (Master Human-Computer Interaction)
